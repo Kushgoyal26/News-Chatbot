@@ -2,3 +2,6 @@
 feedparser
 requests
 gunicorn
+reportlab
+google-generativeai
+python-dotenv
